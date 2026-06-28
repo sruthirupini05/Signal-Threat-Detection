@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "12:46:22",
+    "pair": "demo_pair",
+    "severity": "LOW",
+    "score": -0.57575048041729,
+    "reason": "Anomalous traffic pattern detected by Isolation Forest"
+  }
+]

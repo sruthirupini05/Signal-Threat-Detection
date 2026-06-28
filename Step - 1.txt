@@ -1,0 +1,16 @@
+Step - 1
+admin Command Prompt: 
+
+cd C:\Users\kanak\Downloads\signal-threat-detection
+signal_env\Scripts\activate
+streamlit run app.py
+
+Step 2: connect both the devices with IP address and on SAME network and also with blutooth
+
+step 3: press Start
+
+Step 4 : open cmd and run "ping 172.20.10.1 -t" (for normal traffic) and "ping 192.168.1.4 -l 65500 -n 500 -t" (to trigger HIGH threat alert)
+
+key words : The Internet Control Message Protocol (ICMP) is a network layer protocol used by network devices, such as routers, to diagnose, troubleshoot, and send error messages about packet delivery issues
+
+

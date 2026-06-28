@@ -1,0 +1,22 @@
+{
+  "172.20.10.1 \u2194 172.20.10.3": {
+    "status": "ACTIVE",
+    "packet_count": 101,
+    "bytes_total": 7646,
+    "bytes_human": "7.5 KB",
+    "protocols": {
+      "ICMP": 99,
+      "UDP/53": 1,
+      "UDP/62774": 1
+    },
+    "duration_secs": 54.0,
+    "first_seen": "00:17:03",
+    "last_seen": "00:17:57",
+    "sessions": [
+      {
+        "start": "00:17:03",
+        "end": "00:17:57"
+      }
+    ]
+  }
+}

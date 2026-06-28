@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Unknown",
+    "address": "94:32:51:C5:40:A7",
+    "rssi": -84,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:28"
+  },
+  {
+    "name": "Unknown",
+    "address": "00:7C:2D:0D:7E:CE",
+    "rssi": -86,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:28"
+  },
+  {
+    "name": "Unknown",
+    "address": "05:8B:EC:3E:F6:04",
+    "rssi": -88,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:28"
+  },
+  {
+    "name": "Unknown",
+    "address": "D9:A3:95:13:8F:7C",
+    "rssi": -81,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:29"
+  },
+  {
+    "name": "Unknown",
+    "address": "10:76:36:0F:B5:5B",
+    "rssi": -83,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [
+      "8980f798-0614-11ea-8d71-362b9e155667"
+    ],
+    "last_seen": "12:45:30"
+  },
+  {
+    "name": "Unknown",
+    "address": "5E:12:83:0E:0D:F5",
+    "rssi": -86,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:32"
+  },
+  {
+    "name": "Unknown",
+    "address": "63:75:D2:F4:C6:D5",
+    "rssi": -69,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:32"
+  },
+  {
+    "name": "Unknown",
+    "address": "65:C4:38:F5:C0:38",
+    "rssi": -67,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:33"
+  },
+  {
+    "name": "Unknown",
+    "address": "24:3A:98:BA:49:E8",
+    "rssi": -81,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:33"
+  },
+  {
+    "name": "Unknown",
+    "address": "5C:64:5C:92:D1:E2",
+    "rssi": -88,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:34"
+  },
+  {
+    "name": "Unknown",
+    "address": "68:63:50:0C:DB:C0",
+    "rssi": -83,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [
+      "00001815-0000-1000-8000-00805f9b34fb"
+    ],
+    "last_seen": "12:45:36"
+  },
+  {
+    "name": "Unknown",
+    "address": "50:FD:D5:9C:71:D1",
+    "rssi": -88,
+    "type": "BLE",
+    "status": "Detected",
+    "services": [],
+    "last_seen": "12:45:36"
+  },
+  {
+    "name": "Bluetooth LE Generic Attribute Service",
+    "address": "4B:1E:12:2D:00:D0",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Device Information Service",
+    "address": "00:80:5F:9B:34:FB",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Bluetooth LE Generic Attribute Service",
+    "address": "D3:43:DC:5D:04:AE",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Microsoft Bluetooth Enumerator",
+    "address": "N/A",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Babu's AirPods",
+    "address": "8C:7A:AA:B5:75:3D",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Bluetooth LE Generic Attribute Service",
+    "address": "C5:02:AD:55:F8:DC",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "AirPods Pro",
+    "address": "68:3E:C0:CB:A8:27",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Praneeth's iPhone",
+    "address": "00:7D:60:61:FB:1E",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Wireless",
+    "address": "FA:56:A8:A0:4A:7C",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "Bluetooth LE Generic Attribute Service",
+    "address": "48:79:10:AE:43:66",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Wireless",
+    "address": "FA:56:A8:A0:4A:7A",
+    "status": "Connected",
+    "type": "Paired",
+    "paired": true
+  }
+]

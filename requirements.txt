@@ -1,0 +1,31 @@
+# ─── Core ────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# ─── Deep Learning (for train.py on Kaggle) ──
+tensorflow>=2.13.0
+# OR use PyTorch instead:
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# ─── Dashboard ───────────────────────────────
+streamlit>=1.28.0
+
+# ─── Network Scanning ────────────────────────
+scapy>=2.5.0
+psutil>=5.9.0
+
+# ─── Bluetooth ───────────────────────────────
+bleak>=0.21.0          # BLE — cross-platform (recommended)
+# pybluez>=0.23        # Classic BT — uncomment if needed (Windows/Linux only)
+
+# ─── Data / HDF5 ────────────────────────────
+h5py>=3.9.0
+
+# ─── Utilities ───────────────────────────────
+tqdm>=4.66.0
+colorama>=0.4.6
